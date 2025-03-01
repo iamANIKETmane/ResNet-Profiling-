@@ -47,6 +47,7 @@ python lab2.py [options]
 ```bash
 python lab2.py -e c2 -d cpu -w 2
 ```
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/8a1f0825-e20f-46de-b02d-f96bde745002" />
 
 #### C3: I/O Optimization
 ```bash
