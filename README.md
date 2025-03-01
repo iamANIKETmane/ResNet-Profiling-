@@ -1,4 +1,4 @@
-# Deep Learning Lab 2: ResNet-18 Training on CIFAR-10
+# ResNet-18 Training on CIFAR-10
 
 This repository contains code for training a ResNet-18 model on the CIFAR-10 dataset, with various optimizations and experiments.
 
